@@ -2,12 +2,12 @@
 # Fortlatro
 a terrible Fortnite themed Balatro mod
 featuring as of right now 
-# 59 Jokers
+# 70 Jokers
 Eric - Legendary - Create 3 random Jokers no need to have room lose $5 at the end of round
 
 Crac - Rare - 1/13 chance to do something random (he has ALOT of abilities check the horrible code yourself if you wanna see)
 
-Emily - Legendary - Retrigger EVERYTHING
+Emily - Legendary - Retrigger all played cards 5 times
 
 Toilet Gang - Uncommon - Gains x0.2 mult every time played hand contains a Flush
 
@@ -21,7 +21,7 @@ Victory Crown - Uncommon - Scored cards gain a permanant Chip bonus equal to the
 
 Fortnite Trading Card - Uncommon - If first hand of round has only 4 cards destroy them and give an LTM card
 
-Zorlodo - Rare - Copies the abilities of the left and right joker but halves them if applicable
+Zorlodo - Legendary - Copies the abilities of the left and right joker by BEING them
 
 Solid Gold - Common - 1/4 chance to turn each scored card gold
 
@@ -120,6 +120,28 @@ Skibidi Toilet - Uncommon - If played hand is a Flush create a random Face card 
 Bot Lobby - Common - When selecting a blind Debuffed cards are instead Discarded
 
 NickEh30 - Common - Gain +1 mult for each unscored card resets if no unscored cards
+
+Rift Launcher - Rare - Prevents death twice
+
+Wood Rabbit - Uncommon - Retrigger played hand if it contains a Wood card if the played hand is fully Wood cards retrigger it twice
+
+Brick Fox - Uncommon - Retrigger played hand if it contains a Brick card if the played hand is fully Brick cards retrigger it twice
+
+Metal LLama - Uncommon - Retrigger played hand if it contains a Metal card if the played hand is fully Metal cards retrigger it twice
+
+Hide and Seek - Uncommon - +3 Mult if played hand has exactly (random number 0-4) unscored cards
+
+Kevin the Cube - Uncommon - +2 Mult for every Cubic card in the full deck
+
+Shadow Series - Common - If Hands and Discards are equal at end of round gain 0.05 Mult per unused Hand
+
+Unvaulting - Uncommon - Once per ante selling a card with an edition creates a tag for that edition
+
+Jar Buster - Uncommon - +1 Joker Slot - 1 Consumable Slot sits in your consumables
+
+Fashion Show - Uncommon - Cards with editions each give X1.75 Mult
+
+Piece Control - Rare - Played Wood cards have a 1 in 3 chance to become Metal Played Brick cards have a 1 in 2 chance to become Metal
 
 # 2 Decks
 Eric Deck - Start with Eric
@@ -233,18 +255,20 @@ Ship It! - Gives a free LTM Pack
 
 Ship It Express! - Gives a free MEGA LTM Pack
 
-# 3 Seals
+# 4 Seals
 Storm Seal - Creates an LTM Card when discarded (must have room)
 
 Glitched Seal - Does something random when played and unscoring
 
 Boogie Seal - If played hand contains this seal 1/4 chance not to consume a hand
 
+Hop Seal - When scoring this card 1/3 chance to gain +1 Discard
+
 # 2 Blinds
 Fracture - All played cards are destroyed
 
 Zero Build - Wood, Brick and Metal are debuffed
 
-# Be sure to check the config tab you can enable and disable sounds, cracsounds, cryptid compat, ortalab compat, and Old Calc or New Calc
+# Be sure to check the config tab you can enable and disable sounds, blinds, cryptid content, ortalab content, and Old Calc or New Calc
 [ortalab](https://github.com/Eremel/Ortalab/tree/12ad0459565911aa5de428288c5d431466f06c73)
 [cryptid](https://github.com/MathIsFun0/Cryptid)
